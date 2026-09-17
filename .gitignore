@@ -1,0 +1,23 @@
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+
+# OS and temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE and environment
+.vscode/
+.idea/
+.venv/
+__pycache__/
+*.pyc
+
+# Local scratch and agent files
+scratch/
+.system_generated/
