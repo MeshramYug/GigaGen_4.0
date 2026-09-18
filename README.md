@@ -1,4 +1,15 @@
-# GIGAGEN 4.0 — Generative AI Treasure Hunt & Creative Quest
+<p align="center">
+  <img src="images/gigagen_logo.png" alt="GIGAGEN 4.0 Logo" width="280" />
+</p>
+
+<h1 align="center">GIGAGEN 4.0</h1>
+<h3 align="center">Generative AI Treasure Hunt & Creative Quest</h3>
+
+<p align="center">
+  <em>An end-to-end continuous creative quest connecting narrative lore, visual comic design, generative video, and dynamic audio scoring.</em>
+</p>
+
+---
 
 **GIGAGEN 4.0** is a Generative AI treasure-hunt competition where every challenge connects to the next. Instead of separate standalone rounds, participants embark on one continuous creative quest — from decoding clues to generating an original story, illustrating comic strips, producing dynamic generative video, and composing original music.
 
@@ -41,7 +52,8 @@ GigaGen_4.0/
 │   ├── kreatorsss.pdf
 │   ├── PRAN-YANTRA by Mihir Dhanore(Topic 3).pdf
 │   └── Team Codex Problem Statement 3.pdf
-├── images/                                     # Phase 2: Extracted High-Resolution Comic Panels
+├── images/                                     # Phase 2: Brand Assets & Extracted Comic Panels
+│   ├── gigagen_logo.png                        # Official GIGAGEN 4.0 Brand Logo (Transparent)
 │   ├── Document_Jai_Sagulale/                  # 10 pages (JPG)
 │   ├── PRAN_YANTRA/                           # 10 pages (PNG)
 │   └── TheForgottenTemple_Comic/               # 10 pages (JPG)
@@ -87,9 +99,10 @@ GigaGen_4.0/
 | `Team Codex Problem Statement 3.pdf` | Team Codex — Problem Statement 3 | 19.00 MB |
 | `kreatorsss.pdf` | Team Kreators Submission | 1.06 MB |
 
-### 🖼️ Extracted Comic Panels (`images/`)
-> *High-resolution panel extractions from the comic submissions for easy previewing and asset reuse.*
+### 🖼️ Extracted Comic Panels & Brand Assets (`images/`)
+> *Official transparent brand logo along with high-resolution panel extractions from comic submissions for easy previewing and asset reuse.*
 
+- **`gigagen_logo.png`**: Official GIGAGEN 4.0 transparent vector-style logo
 - **`TheForgottenTemple_Comic/`**: 10 pages (`kartik_comic_page_01.jpg` to `kartik_comic_page_10.jpg`)
 - **`Document_Jai_Sagulale/`**: 10 pages (`jai_doc_page_01.jpg` to `jai_doc_page_10.jpg`)
 - **`PRAN_YANTRA/`**: 10 pages (`pran_yantra_page_01.png` to `pran_yantra_page_10.png`)
